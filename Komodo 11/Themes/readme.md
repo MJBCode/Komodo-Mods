@@ -1,3 +1,3 @@
-Interface Colors: Base16_Light_New
-Widget Colors: Base16_Light_New
-Editor Colors: Classic_New
+- Interface Colors: Base16_Light_New
+- Widget Colors: Base16_Light_New
+- Editor Colors: Classic_New
