@@ -1,4 +1,4 @@
-#Email Notifications for Komodo Nightly Builds
+# Email Notifications for Komodo Nightly Builds
 
 This script uses CURL and mailgun to send email notifications. You can modify the notification code to whatever you choose, even Push Notifications through Pushover
 
